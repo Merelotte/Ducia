@@ -1,0 +1,116 @@
+/* Header */
+header h1 {
+    font-family: Georgia;
+    color: #7F142F;
+    font-size: 100px;
+	font-weight: 800;
+	text-align: center;
+    text-transform: lowercase;
+	line-height: 1;
+}
+
+header p {
+	font-family: 'Dawning of a New Day', cursive;
+	color: #7F142F;
+	text-align: center;
+	font-size: 35px;
+	line-height: 1;
+	margin-top: -15px;
+}
+
+/* Navigation */
+nav {
+	border-top: solid medium #7F142F;
+	font-family: Georgia;
+	margin-top:-10px;
+}
+
+/* Content */
+.title {
+    height: 300px;
+    background-color: hsla(345,73%,79%,0.3);
+    background-image: url(url);
+}
+
+.title h1 {
+    font-family: Georgia;
+    color: #7f142F;
+    font-size:75px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 112px;
+    padding-bottom: 112px;
+}
+
+.main .heading {
+    font-family: Georgia;
+    color: #7f142f;
+    font-weight: 400;
+	margin-top: -23px;
+    margin-left: 20px;
+}
+
+.main .section {
+	background-color: hsla(345,73%,79%,0.05);
+}
+
+.main .section p {
+	font-family: 'Raleway', sans-serif;
+}
+
+.main .section img {
+	margin: 20px;
+}
+
+/* Footer */
+footer .content {
+    background-color: #7F142F;
+}
+
+footer h2 {
+	font-family: Georgia;
+	font-size: 25px;
+	color: white;
+	padding: 10px;
+}
+
+footer p {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+footer ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;	
+	margin-bottom: 10px;
+}
+
+footer ul li{
+	border-bottom: 1px solid white;
+	color: white;
+	line-height: 35px;
+}
+
+footer ul li a {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+footer ul li a:hover {
+	color: white;
+	margin-left: 10px;
+	transition: all .3s;
+}
+
+.copyright {
+	text-align: center;
+	color:#FFFFFF; 
+	background-color: hsla(345,73%,29%,0.8);
+	padding: 5;
+}
+
+.copyright p {
+	margin-top: 15px;
+	font-family: 'Raleway', sans-serif;
+}
