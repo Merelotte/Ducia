@@ -44,8 +44,9 @@ nav {
 
 .main .heading {
     font-family: Georgia;
+    font-weight: 300;
+    font-style: normal;
     color: #7f142f;
-    font-weight: 400;
 	margin-top: -23px;
     margin-left: 20px;
 }
@@ -55,8 +56,9 @@ nav {
 }
 
 .main .section p {
-	font-family: 'Raleway', sans-serif;
 	margin: 10px;
+	font-family: 'Raleway', sans-serif;
+    font-weight: 300;
 }
 
 /* Footer */
