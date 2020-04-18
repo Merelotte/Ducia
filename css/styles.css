@@ -60,6 +60,49 @@ nav {
 	font-family: 'Raleway', sans-serif;
     font-weight: 300;
 }
+.title-about{
+	align-content: center;
+	text-align: center;
+}
+.values{
+	align-content: center;
+	text-align: center;
+	border: 3px solid #e29378;
+	padding: 34px 0;
+	
+}
+.values-1{
+	align-content: center;
+	text-align: center;
+	border: 3px solid #e29378;
+	padding: 25px 0;
+	
+}
+.vision-1{
+	align-content: center;
+	text-align: center;
+	border: 3px solid #7f142f;
+	padding: 30px 0;
+		
+}
+.vision-2{
+	text-align: center;
+	align-content: center;
+	border: 3px solid #7f142f;
+	padding: 50px 0;
+	
+}
+.title-vision{
+	font-family: Georgia;
+    color: #7f142F;
+}
+.vision-3{
+	text-align: center;
+	align-content: center;
+	border: 3px solid #7f142f;
+	padding: 70px 0;
+}
+
 
 /* Footer */
 footer .content {
